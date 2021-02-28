@@ -1,0 +1,62 @@
+li {
+  list-style: none;
+}
+.navbar-item {
+  background-color: #d1cfd8;
+  cursor: pointer;
+}
+.bg {
+  background: #f5f4f8;
+}
+.container-fluid {
+  height: 50px;
+}
+.a-language {
+  color: black;
+}
+.fa-bell {
+  margin-left: 12px;
+  margin-top: 10px;
+}
+.navbar-item:hover {
+  background-color: #c9c7ce;
+}
+.counter {
+  background-color: #754ffe;
+  border: 2px solid white;
+}
+.counter-2 {
+  background-color: rgb(53, 190, 53);
+  border: 2px solid white;
+}
+.dropdown > ul:hover {
+  display: block;
+}
+.dropdown-menu {
+  display: none;
+}
+.path:hover .dropdown-menu {
+  display: block;
+}
+.check {
+  background: #754ffe;
+}
+.list {
+  margin-left: -20px;
+}
+a {
+  text-decoration: none;
+}
+.accordion-p {
+  font-size: 14px;
+}
+.accordion-a {
+  font-size: 20px;
+  color: black;
+}
+.accordion-a:hover {
+  color: blueviolet;
+}
+.progress-bar {
+  background: rgb(42, 228, 42);
+}
